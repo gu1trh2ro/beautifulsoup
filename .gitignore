@@ -1,0 +1,10 @@
+# 추적 제외
+debug_pages/
+*.html
+simple_crawl.py
+inspect_site.py
+naver_webtoon_crawler.py
+naver_webtoons*
+beautifulsoup.py
+pnu_cse_notices.csv
+
